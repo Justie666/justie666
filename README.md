@@ -84,7 +84,7 @@
       <br>Redux
     </td>
         <td align="center" width="110" height="90">
-        <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="36" height="36" alt="Tanstack Query" />
+        <img src="https://img.jsdelivr.com/github.com/TanStack.png" width="36" height="36" alt="Tanstack Query" />
       <br>Tanstack
     </td>
    <td align="center" width="110" height="90">
